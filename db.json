@@ -1,0 +1,106 @@
+{
+    "farm": [
+        {
+            "id": 1,
+            "Urun": "Buğday",
+            "Cesit": "Bezostaja1",
+            "Tohum": "Bezostaja1",
+            "Verim": "300 kg/da",
+            "Ekim": "Ekim",
+            "Hasat": "Ekim",
+            "Gubre": "Ekim"
+        },
+
+        {
+            "id": 2,
+            "Urun": "Buğday",
+            "Cesit": "Gerek79",
+            "Tohum": "Gerek79",
+            "Verim": "589 kg/da",
+            "Ekim": "Aralık",
+            "Hasat": "Aralık",
+            "Gubre": "Aralık"
+        },
+        {
+            "id": 3,
+            "Urun": "Buğday",
+            "Cesit": "Harmankaya99",
+            "Tohum": "Harmankaya99",
+            "Verim": "600 kg/da",
+            "Ekim": "Şubat",
+            "Hasat": "Şubat",
+            "Gubre": "Şubat"
+        },
+        {
+            "id": 4,
+            "Urun": "Buğday",
+            "Cesit": "Sözmez2001",
+            "Tohum": "Sönmez2001",
+            "Verim": "200 kg/da",
+            "Ekim": "Şubat",
+            "Hasat": "Şubat",
+            "Gubre": "Şubat"
+        },
+        {
+            "id": 5,
+            "Urun": "Buğday",
+            "Cesit": "Soyer02",
+            "Tohum": "Soyer02",
+            "Verim": "678 kg/da",
+            "Ekim": "Eylül",
+            "Hasat": "Eylül",
+            "Gubre": "Eylül"
+        },
+        {
+            "id": 6,
+            "Urun": "Arpa",
+            "Cesit": "Sabribey",
+            "Tohum": "Sabribey",
+            "Verim": "589 kg/da",
+            "Ekim": "Temmuz",
+            "Hasat": "Temmuz",
+            "Gubre": "Temmuz"
+        },
+        {
+            "id": 7,
+            "Urun": "Arpa",
+            "Cesit": "Ünver",
+            "Tohum": "Ünver",
+            "Verim": "200 kg/da",
+            "Ekim": "Ağustos",
+            "Hasat": "Ağustos",
+            "Gubre": "Ağustos"
+        },
+
+        {
+            "id": 8,
+            "Urun": "Nohut",
+            "Cesit": "Canitez87",
+            "Tohum": "Canitez87",
+            "Verim": "600 kg/da",
+            "Ekim": "Mayıs",
+            "Hasat": "Mayıs",
+            "Gubre": "Mayıs"
+        },
+        {
+            "id": 9,
+            "Urun": "Nohut",
+            "Cesit": "Nihatbey",
+            "Tohum": "Nihatbey",
+            "Verim": "589 kg/da",
+            "Ekim": "Ekim",
+            "Hasat": "Ekim",
+            "Gubre": "Ekim"
+        },
+        {
+            "id": 10,
+            "Urun": "Nohut",
+            "Cesit": "Çiftçi",
+            "Tohum": "Çiftçi",
+            "Verim": "200 kg/da",
+            "Ekim": "Haziran",
+            "Hasat": "Haziran",
+            "Gubre": "Haziran"
+        }
+    ]
+}
